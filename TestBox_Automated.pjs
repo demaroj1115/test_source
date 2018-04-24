@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{FAB412B1-5C96-40E3-8593-D018FA96CD08}">
+	<children>
+		<child name="ExcelWorkstationTest" key="{8DC875DC-15EF-4A54-867D-9DBA67CEDFA7}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="ExcelWorkstationTest\ExcelWorkstationTest.mds" />
+		</child>
+	</children>
+	<folders />
+	<testItems key="{6B3C7C97-A0B7-4CB4-9433-E4A72FA677C3}">
+		<children>
+			<testItem key="{8DC875DC-15EF-4A54-867D-9DBA67CEDFA7}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{D6E6285F-84D0-44D2-8C3B-D1DD0AC6B2A0}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{37C69C4C-8253-4CEB-ABD6-E7C7EC29BCBE}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}" />
+</Root>
